@@ -1,0 +1,9 @@
+pandas
+numpy
+langchain-openai
+geopy
+python-dotenv
+requests
+langchain-core
+langchain
+difflib
